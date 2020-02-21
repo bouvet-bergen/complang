@@ -24,6 +24,9 @@ Påmelding gjøres på [event.bouvet.no](https://event.bouvet.no/).
 - *1. juli 2019* - ***Go*** presentert av Torbjørn
 - *13. august 2019* - ***Haskell***  presentert av Lorentz
 - *19. september 2019* - ***Game Show på BouvetOne Bergen***
+- *30. oktober 2019* - ***F#*** presentert av Torbjørn
+- *27. movember 2019* - ***Elm*** presentert av Robert
+- *27. februar 2020* - ***Funksjonell programmering i JavaScript*** presentert av Dusan
 
 ## Kontakt
 
