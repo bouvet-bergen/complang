@@ -1,0 +1,16 @@
+{
+  "name": "20200227_javascript",
+  "version": "1.0.0",
+  "description": "Comp-lang FP Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "daggy": "^1.4.0",
+    "jsverify": "^0.8.4",
+    "mocha": "^7.0.1"
+  }
+}
